@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-size: cover;
+}
+
+.background {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    background-color: white;
+    height: 100vh;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0A2FB6;
+    width: 29%;
+    height: 100vh;
+}
+
+.kids {
+    position: relative;
+    right: 30%;
+    height: 80vh;
+    border-radius: 20px;
+}
