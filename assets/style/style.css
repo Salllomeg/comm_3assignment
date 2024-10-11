@@ -39,6 +39,7 @@ body {
     justify-content: center;
     align-items: center;
     margin-left: 12vw;
+    margin-top: 50px;
 }
 
 form .login-info h1 {
